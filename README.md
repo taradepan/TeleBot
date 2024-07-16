@@ -3,7 +3,7 @@
 TeleBot is an AI telegram bot powered by many popular LLM tools like Gemini, Cohere's rerank, etc.
 
 ## Note:
-I have used the tools that I prefer for that specific tasks. Like for embedding I prefer Cohere's embedding v3 model, for chat: Gemini, Vector DB: ChromaDB, etc.
+I have used the tools that I prefer for that specific tasks. Like for embedding I prefer Cohere's embedding v3 model, for Vision: Gemini, Vector DB: ChromaDB, etc.
 
 ### To use this Repo:
 1. Clone the repo
