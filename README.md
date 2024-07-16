@@ -14,6 +14,7 @@ TOKEN= <Telegram bot token>
 GEMINI= <Gemini API_KEY>
 HF_TOKEN= <HUGGINGFACE TOKEN>
 COHERE_API= <COHERE API_KEY>
+DEEPGRAM_API= <DEEPGRAM_API_kEY>
 ```
 
 3. run the following command to install the packages:
